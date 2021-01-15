@@ -1,0 +1,60 @@
+Language : Means or Modes of Communication
+
+Programing Language : 
+
+ Applications 
+Depending upon User Interface (UI) , applications are of 2 types
+
+CUI > Character User Interface , C,C++
+GUI > Graphical User Interface 
+GUI Applications
+Windows Applications , Web Applications
+Windows Appl > Standalone Applications 
+Web Applications, We use/access them using Browser: Prgram running on client side
+
+Any Application will have some components
+
+Front End     Back End
+
+Front End > From or how user will interact with the application
+
+To design/create Front End part in web applications, we use technologies like
+
+HTML      > Create static web pages
+CSS       > Beautify or decorate ur web page
+Javascript > To create dynamic web page, for user interaction , runs on client side 
+
+HTML > Hyper Text Markup Langauge
+Its a markup Langauge
+Its case insensitive, html HTML both are same
+Its easy to learn
+Easy to use
+
+Structure of HTML file
+
+Html page should start from <!Doctype html>
+HTML page is divided into 2 sections
+
+head 
+body
+
+Tags are of 2 types
+Empty Tag      <br> , <img> <hr>
+Container Tags   <p> Content </p>
+<body> <head> <html> <b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

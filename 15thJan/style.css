@@ -1,0 +1,18 @@
+p {
+            font-display: block;
+            font-size: larger;
+            color: green;
+            border: dashed;
+        }
+
+        #p1 {
+            font-display: block;
+            font-size: larger;
+            color: blue;
+            border: dashed;
+        }
+
+        .c1 {
+            color: blueviolet;
+            border-color: brown;
+        }
