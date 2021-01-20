@@ -1,0 +1,122 @@
+Select * from Employee
+
+-- Functions are used to perform some task
+-- Two Main categories
+-- Predeined / User Defined
+-- Predefined : Inbuilt
+-- UDF > Created by users
+
+-- Predefined : 
+-- Categories
+-- String Functions : len concatenate left right
+-- Numeric functions > power , max , min 
+-- Date functions > month , day , year
+-- General functions > varchar
+
+--Depending upon the inputs and outputs , functions are of following types--
+--Scalar functions >  functions which takes one input and give you 1 output
+-- Ex : left , upper , lower , floor , sqrt , power
+
+Select * from employee 
+select lower(name) from employee
+select left(name, 2) from employee
+select right(name, 3) from employee
+select right(rtrim(name), 3) from employee
+insert into employee values (10,'      Pradeep', 'Delhi',90,90000)
+select ltrim(name) from employee
+select name , SUBSTRING(name, 2,3) from employee
+
+select name, CHARINDEX('A', name ) from Employee
+select replace (name , 'i','*') from employee
+SELECT DATENAME(month, '2017/08/25') AS DatePartString;
+
+select GetDate()
+
+
+select convert(varchar, GetDate())
+
+select convert(varchar, GetDate(),11)
+
+-- NULL > Not available , Its not similar to 0 or spaces
+
+select * from employee
+
+-- We have 2 ways to store null in columns
+-- implicit way / explicit way
+insert into employee(id, state,manager, salary) values (11,'Delhi','Deepak',90000)
+
+insert into employee values (11,null,'Delhi','Deepak',90000)
+
+select * from employee where name IS null
+
+select * from employee where name IS NOT null
+
+select upper(name) from employee
+
+--Depending upon the inputs and outputs , functions are of following types--
+--Scalar functions >  functions which takes one input and give you 1 output
+-- Ex : left , upper , lower , floor , sqrt , power
+-- Aggregate OR Group functions > which takes multiple values and returns a 
+-- single value
+
+-- max min count avg sum
+
+Select sum(salary) As "Total Salary" , max(salary) As "Maximum Salary", 
+min(salary) 
+AS "Minimum Salary", avg(salary) As "Average Salary", count(salary)
+"Count of All Records"  from employee
+
+
+Delete from employee
+
+Delete from employee where name is null
+
+update employee set state ='UP' where id<2
+
+-- Create and copy records from one table to other table
+select * into newtable from employee
+
+select id, name into newt from employee
+where id<5
+
+truncate table newt
+
+-- trunacte table & delete
+-- delete is DML
+-- Truncate table is ddl
+-- dlete , we can use where clause
+-- truncate table, we cannot use where clause
+-- truncate table is used to dlete al records in a single go
+
+
+----------------------
+select * from employee
+
+alter table employee add deprtmentid int references department(id) 
+select * from employee
+update employee set deprtmentid = 101 where id <2
+update employee set deprtmentid = 102 where id between 2 and 52
+update employee set deprtmentid = 103 where id >5
+
+create table department(id int primary key , name varchar(20), 
+managername varchar(20))
+insert into department values(101,'HR','Deepak'),
+(102,'Accts','Pritpal'),
+(103,'Sales','Vijay'),
+(104,'IT','Sagar')
+
+select * from department
+Select * From Employee
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------
+
