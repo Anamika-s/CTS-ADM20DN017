@@ -1,0 +1,45 @@
+Forms :Complete every control 
+text boxes
+Javascript Basics , complete 
+display document.getElementID
+JQuery
+
+C#
+ASP.Net 
+MVC
+Pair of 5 or 6
+
+projects : 
+
+Advanced : 
+MVC : Bundling css & Javascript : How to do
+MVC core & MVC 5 
+ENtity Framework
+
+ADO.Net (Basic)
+
+Stored procedures
+
+Visual Studio 2019 community Edition
+Dotnet 4.8 and Dotnet core and dotnet 5 installed 
+
+Angular : Gang of 4 principles  (not required)
+API Driven application (Sql Srver , Business Layer
+3 layered architecture
+
+MVC & ApI Driven
+ 
+Deploying MVC project to IIS (any Server)
+on windows platform
+
+IIS 
+Application Pools
+
+(No need to deploy in Linux)
+
+GIT is needed
+
+Deployednt on Cloud
+CI/CD 
+
+  
