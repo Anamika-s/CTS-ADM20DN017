@@ -1,0 +1,35 @@
+How many values function can return 
+Only 1 
+
+How do we return more than 1 value from a function, for that we use output parameters
+
+using System;
+
+
+    class outputparam_demo
+    {
+
+     static int add( int x, int y)
+    {
+        return x + y; 
+    }
+    static int subtract(int x, int y)
+    {
+        return x - y;
+    }
+   static void Operations(int x ,int y, out int add , out int  subtract )
+    {
+        add = x + y;
+        subtract = x - y;
+    }
+
+    static void Main()
+    {
+        int add, subtract;
+        Operations(10, 2, out add, out subtract);
+        Console.WriteLine("Result of Addition is " + add);
+        Console.WriteLine("Result of Subtraction is " + subtract);
+
+    }
+}
+ 
