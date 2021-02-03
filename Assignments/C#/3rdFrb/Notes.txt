@@ -1,0 +1,19 @@
+The enum can be of any numeric data type such as byte, sbyte, short, ushort, int, uint, long, or ulong. However, an enum cannot be a string type.
+
+Specify the type after enum name as : type. The following defines the byte enum.
+
+Example: byte Enum
+enum Categories: byte
+{
+    Electronics = 1,  
+    Food = 5, 
+    Automotive = 6, 
+    Arts = 10, 
+    BeautyCare = 11, 
+    Fashion = 15
+}
+
+-----------------------------
+https://www.tutorialsteacher.com/csharp/csharp-enum#:~:text=The%20enum%20can%20be%20of,cannot%20be%20a%20string%20type.
+
+

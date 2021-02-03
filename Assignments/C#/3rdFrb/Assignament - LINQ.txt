@@ -1,0 +1,18 @@
+                  Assignment No : 13
+
+Create Employee Class with following attributes
+ id ,name , manager , dept ,salary
+
+Enter 10 Records using Collection Initializer
+
+
+Use Linq to perform following tasks:
+1. Display all the records
+2. Display Employee who gets highest Salary
+3. Display Employee who gets lowest Salary
+4. Display total salary distributed to all Employees
+5. Display avaerge salary distributed to all Employees
+6. Display only Employee id, Employee Name, Department
+7. How many Departments are there
+8. Employees are having kumar in their names
+9. Employees who are in HR Department

@@ -1,0 +1,17 @@
+              Assignment No : 13
+
+Create following Classes with respective properties
+
+ Customer : CustomerID,name, address
+ Product: pid, pname , description 
+ Order : Order ID, Order Date, CustomerID, PID
+
+  Perform following operations
+1. Display all Products
+2. Display all Customers
+3. Display all products whose qty is more than 100
+4. Display all products whose qty is more than 10 and less than 50
+5. Display which orders are placed datewsie
+6. Display all the products depending upon their qty
+7. Display all Customers along with which products they have purchased
+8. List of all products if they are ordered
