@@ -1,0 +1,17 @@
+Create classes 
+
+Department
+  Id  
+  Name  
+
+
+Employee
+  EmployeeId  
+  Name  
+  Gender 
+  City  
+  Salary 
+ 
+
+Employees will be in some department
+Perform CRUD operations for both using Entity Framework.  USe Code First Approach
