@@ -1,0 +1,19 @@
+               Assignment 1
+
+Create two controllers 
+
+Home 
+Main
+
+In Home Controller, add 3 action methods
+first
+second
+third
+
+In Main Controller, add 3 action methods
+first
+second
+third
+
+
+Execute them , second method of Main should be first method to be executed
