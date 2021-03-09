@@ -1,0 +1,23 @@
+ 
+Create a class user , table name should be userdetails (use Fluent API)
+ 
+id
+FirstName
+Last Name
+Password
+Retype Password (This shall not store in table)
+Both these passwords should match
+Age shall be more than 30 
+DateofJoin : shall be more than current date
+Salary  range 40000 - 75000
+
+
+Perform all CRUD operations
+
+Here ID is primary key
+All are all mandatory
+Fisrt Name & Last Name : shall not have any numbers
+Min charcters : 10
+Max charcters : 20
+
+ 

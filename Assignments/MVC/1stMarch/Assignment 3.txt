@@ -1,0 +1,10 @@
+Create two classes
+Author
+ 
+AuthorID
+FName
+LName
+Genre
+
+Perform all CRUD operations 
+
