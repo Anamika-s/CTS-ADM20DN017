@@ -1,0 +1,13 @@
+Modernizr is a small, simple and open-source JavaScript library that helps us to take advantage of emerging web technologies; HTML5 and CSS3 maintain the look and feel for older browsers that may not yet support these new technologies.
+
+https://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/modernizr-library-in-mvc-4/
+
+
+
+The jQuery and the jQuery Validation script bundles are rendered at the end of the Model using the Scripts.Render function.
+In order to use the jQuery obtrusive validation library, the following attributes must be assigned to the TextBox and the HTML SPAN.
+
+
+ <add key="ClientValidationEnabled" value="true" />
+    <add key="UnobtrusiveJavaScriptEnabled" value="true" />
+
