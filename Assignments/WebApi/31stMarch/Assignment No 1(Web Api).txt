@@ -1,0 +1,22 @@
+                Assignment No 1(Web Api)
+
+Create a Web Api
+
+Product
+id
+Name
+QtyInStock
+Description
+Supplier
+
+Create Action Methods for 
+Get All Products
+Get Product By Id
+Insert Product
+Delete Product
+Edit Product
+
+Every Request should send appropriate Messages to the client (Use both HttpResponseMessage & IHttpActionResult)
+Notice the difference in these two different ways
+
+Test it in Postman 

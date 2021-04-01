@@ -1,0 +1,11 @@
+31st March :
+Create Web Api : Product (collection)
+Test it in Postman 
+
+          Assignment No 2(Web Api & Client)
+1st April :
+Task 1:
+1. Consume it in Console Application using HTTPClient
+2. Consume it in MVC Application using HTTPClient
+
+ 

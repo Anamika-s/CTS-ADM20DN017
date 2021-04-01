@@ -1,0 +1,15 @@
+                      Assignment No 3(Web Api_Entity Framework & Client)
+Task 2:
+Afternoon :
+1.Create Product Web Api (Use Database)
+Entity Framework
+id   (Primary Key)
+Name  (must, maxlength : 20 , minlength : 6)
+QtyInStock (must,  minimum 100)
+Description (must)
+Supplier (enum)  only Suppliers (S001, S002, S003, S004) 
+DateOfPurchase (more than equal to current date)
+
+2.Consume it in MVC Application using HTTPClient
+3.Take Care of Data Validation
+
