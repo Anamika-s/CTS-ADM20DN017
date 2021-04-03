@@ -1,0 +1,16 @@
+             Assignment : JQuery
+1. Display Hello Message on page load
+
+2. Perform basic arithmetic operations on different button click events
+
+3. Change background color and foreground of textbox at run time
+
+4. Change body background color at run time
+
+5. Apply some stylesheet class on some elements at  run time
+
+6. ENter some text in textbox , when we press enter key , shud perform some action
+
+7. Check and apply fading methods on some elements 
+'
+
