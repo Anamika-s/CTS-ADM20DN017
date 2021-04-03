@@ -1,0 +1,16 @@
+                Assignment 1
+
+1. Create a HTML Page 
+with the following details
+
+ID
+Name
+Address
+Batch
+Button : When you click on Button , display all the values entered
+
+Apply Bootstrap
+
+2. Add a Table , with details 
+like ROllNo Name Marks
+Apply bootstrap

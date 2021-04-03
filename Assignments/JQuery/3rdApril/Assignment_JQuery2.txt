@@ -1,0 +1,14 @@
+                Assignment 1
+
+1. Create a HTML Page 
+with the following functionalities
+
+Add 2 numbers
+Subtract 2 numbers
+Convert Name to lowercase
+Combine 2 strings
+Display table of a number
+
+Apply Bootstrap
+
+All functions should be in a separate js file
