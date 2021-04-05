@@ -1,0 +1,47 @@
+Presentation on 10th April
+
+Team Sakshm :
+ Web Api
+Web Development, Web Server, API, Web Aplication, Web Frameworks, Where to use Web API, Why to choose Web API, How to use Web API, HTTP messages, HTTP requests, HTTP responses, Parts of HTTP (Header, StartLine, BlankLine and Body)
+
+Get Action Method with Primitive Parameter, POST Action Method with Primitive Parameter, [FromUri] and [FromBody], Type converters, Model Binder
+
+
+
+"What is Postman, 
+How to test Web API Services using Postman, GET Request using Postman, POST Request using Postman"
+
+Consuming Web Api : 1) HttpClient 2) Ajax
+
+
+Team Anshul :
+ JQuery
+What is jQuery, Advantages of jQuery, The element selector,The #id selector, The .class selector
+
+Finding elements, Filtering out elements, DOM traversing methods
+
+Adding DOM elements, Removing DOM elements, DOM replacement, DOM manipulation methods
+
+Event object, Event types, Binding event handlers, Removing event handlers, Event methods, Event helper methods
+
+Team Ganesh :
+ Git
+Need of version control, how Git is different from other version control, Various Git terminologies, Git commands like git init, add, push, pull, and commit 
+
+Branching and merging techniques using GitLab, how to disable fast forward merge and automatic merge, merge request conflict resolution, clean up and push back to GitLab
+
+
+
+Team Ankit K
+ BootStrap
+Introduction: What is RWD, What is Bootstrap, Why use Bootstrap, What is Mobile First Design? Why It’s Important & How To Make It?, Layout: Containers, Grid System, Tables
+
+Components: Button, Cards, Dropdowns, Navs, Navbar, Pagination,Forms 
+
+
+Flexbox: BS3 Vs BS4, Flexbox, Direction, Align items, Auto margins, Wrap, Order
+
+
+  
+
+
