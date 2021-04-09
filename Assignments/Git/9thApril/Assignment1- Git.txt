@@ -1,0 +1,33 @@
+                            Assignment - Git
+
+Create a Project on GitLab : CTSProjectDemo
+
+1. LOCAL REPO 1:
+Create a Local Repo on your system
+Add files a.txt , b.txt , c.txt in your local repo
+Push them to remote rep
+
+
+2. A new team member joined you. How he will get your work
+From other directory, downlaod the GitLab project. This new developer does some work.
+Add 2 more files here d.txt , e.txt
+Push them to the remote repo but he wants to push it to master branch
+
+
+3. Get these added files on LOCAL REPO 1
+
+4. Other new team member joined you. How he will get your work
+From other directory, downlaod the GitLab project. This new developer does some work.
+Add 2 more files here f.txt , g.txt.
+He is not sure that whether his work will properly or not, So how he will push his work on Gitlab
+
+5. Other new team member joined you. How he will get your work
+From other directory, downlaod the GitLab project. This new developer does some work.
+He adds some more lines in file f.txt and he changed all contents of file g.txt.
+He is not sure that whether his work will properly or not, So how he will push his work on Gitlab
+
+In all these cases
+
+How do you see the files changed within each commit from git log?
+How do you see the contents of what changed within each file from the git log?
+
