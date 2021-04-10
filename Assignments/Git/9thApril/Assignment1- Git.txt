@@ -28,6 +28,6 @@ He is not sure that whether his work will properly or not, So how he will push h
 
 In all these cases
 
-How do you see the files changed within each commit from git log?
+How do you see the files chaNo need to make any ppt. Word of PDF is okay. U need nged within each commit from git log?
 How do you see the contents of what changed within each file from the git log?
 
