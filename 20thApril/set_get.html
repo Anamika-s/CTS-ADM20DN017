@@ -1,0 +1,41 @@
+<!html5>
+<html>
+<head>
+<script>
+class Customer{ 
+   constructor(id, name , address) { 
+      this.id = id; 
+      this.name = name;
+this.address  = address;
+ console.log('inside constructor')
+   } 
+   display() { 
+      console.log("ID is " + this.id + " Name is " + this.name); 
+   } 
+
+set customerid(newId)
+{
+this.id= newId;
+console.log("Inside Setter");
+}
+
+get fullDetails(){
+         console.log('inside getter')
+         return this.name + " - "+this.adress
+      }
+}
+function create()
+{
+//creating an instance  
+var customer = new Customer(100,"Ajay","Delhi"); 
+customer.customerid=120;
+customer.display();
+console.log(customer.fullDetails); 
+console.log(customer);
+}
+</script>
+<head>
+<body>
+<button type="button" onclick=create()> Create </button>
+</body>
+</html>     

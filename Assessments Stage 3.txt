@@ -1,0 +1,18 @@
+
+
+(2 hrs)
+1. hackerrank : all stages/  need to check about MCQ(Navaneetha will conform this point)  (2 coding 1 Sql Server , 1 C# & 20 MCQ)
+
+mock assess / final assess
+
+2. project will be shared by separate team 
+Duration : 2 weeks 
+
+After project
+
+3. kba : stage 3 topics microservces, cloud topics 
+   MCQ only
+
+4. sme interviews : 1 person will evaluate from cts
+all tech & project , after project
+

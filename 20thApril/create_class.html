@@ -1,0 +1,27 @@
+<!html5>
+<html>
+<head>
+<script>
+class Customer{ 
+   constructor(id, name , address) { 
+      this.id = id; 
+      this.name = name;
+this.address  = address;
+ console.log('inside constructor')
+   } 
+   display() { 
+      console.log("ID is " + this.id + " Name is " + this.name); 
+   } 
+} 
+function create()
+{
+//creating an instance  
+var customer = new Customer(100,"Ajay","Delhi"); 
+customer.display(); 
+}
+</script>
+<head>
+<body>
+<button type="button" onclick=create()> Create </button>
+</body>
+</html>     
