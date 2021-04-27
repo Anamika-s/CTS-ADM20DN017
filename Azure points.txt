@@ -1,0 +1,11 @@
+After acoount is created on Azure
+We can not use servies (IAAS , PAAS, SAAS)
+We need subscription
+We are billed through subscription
+
+
+
+LINK FOR HOSTING WEB APPLICATION ON AZURE
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netcore31&pivots=development-environment-vs
+
+
